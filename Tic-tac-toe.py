@@ -9,6 +9,7 @@ from kivy.uix.label import Label
 
 d_factor = True
 clicks=0
+#this is comment
 
 def change_d_factor(self,d_factor):
     if d_factor == True:
